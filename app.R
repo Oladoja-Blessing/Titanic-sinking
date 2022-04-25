@@ -151,7 +151,7 @@ server <- function(input, output) {
   output$tab <- renderUI(tagList(url))
   #####
   url2 <- a("Github", 
-            href="https://github.com/Oladoja-Blessing/",
+            href="https://github.com/Oladoja-Blessing/Titanic-sinking",
             target = "_blank")
   output$tab2 <- renderUI(tagList(url2))
 }
