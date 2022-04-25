@@ -1,2 +1,5 @@
 # Titanic-sinking
-a shiny app that predicts survival in the titanic ship disaster
+A shiny app that predicts survival in the titanic ship disaster.
+Built with R, HTML and CSS.
+Deployed on shiny.io  
+https://oladoja-blessing.shinyapps.io/Titanic/
